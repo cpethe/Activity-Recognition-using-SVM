@@ -1,6 +1,6 @@
 % SGD Kaggle submission
 
-load('./ActivityRecognition_data.mat');
+load('./q3_2_data.mat');
 
 X = cat(2, trD, valD);
 
